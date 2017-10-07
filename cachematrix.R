@@ -22,7 +22,6 @@ makeCacheMatrix <- function(x = matrix()) {
        getmatrix = getmatrix)
 }
 
-
 ## This second function checks to see if there is a value for the 
 ## inverse of the matrix. If the matrix has been cached and stored in cache
 ## it will return the matrix and print a message of "getting cached matrix". 
